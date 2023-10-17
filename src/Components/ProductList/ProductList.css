@@ -1,0 +1,12 @@
+.product-list {
+    margin: 20px auto;
+    max-width: 800px; 
+    margin-top: -700px;
+}
+  
+.product-list-title {
+    font-size: 30px;
+    color: #333;
+    margin-bottom: 10px;
+    text-align: center;
+}
